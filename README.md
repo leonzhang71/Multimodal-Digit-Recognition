@@ -38,4 +38,7 @@ A multimodal machine learning project that classifies handwritten digits using b
 1. Clone this repo   
 2. Using Google Colab to run
 
+## Data File
+https://drive.google.com/file/d/1N3ng_wiJX9Bpe-DXxx71SvFpF7otJnKw/view?usp=drive_link
+
 ---
