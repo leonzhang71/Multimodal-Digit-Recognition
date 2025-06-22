@@ -35,12 +35,7 @@ A multimodal machine learning project that classifies handwritten digits using b
 
 ## 🧪 How to Run
 
-1. Clone this repo  
-2. Install dependencies:  
-   `pip install -r requirements.txt`  
-3. Run training:  
-   `python train.py`  
-4. Evaluate:  
-   `python evaluate.py`
+1. Clone this repo   
+2. Using Google Colab to run
 
 ---
